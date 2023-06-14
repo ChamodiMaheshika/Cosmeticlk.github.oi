@@ -1,0 +1,36 @@
+@charset "utf-8";
+body p {
+    background-color: #9F6667;
+}
+body p {
+    background-color: #BD9D9D;
+}
+
+body p {
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FF6B00;
+}
+.nav-item .nav-link h5 {
+    color: #B921AA;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title {
+    color: #E82A74;
+}
+.row {
+    background-image: -webkit-linear-gradient(270deg,rgba(177,144,145,1.00) 1.04%,rgba(145,71,72,1.00) 46.63%,rgba(177,144,145,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(177,144,145,1.00) 1.04%,rgba(145,71,72,1.00) 46.63%,rgba(177,144,145,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(177,144,145,1.00) 1.04%,rgba(145,71,72,1.00) 46.63%,rgba(177,144,145,1.00) 100%,rgba(255,0,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(177,144,145,1.00) 1.04%,rgba(145,71,72,1.00) 46.63%,rgba(177,144,145,1.00) 100%,rgba(255,0,0,1.00) 100%);
+
+}
+
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+body p {
+}
+.container-fluid {
+    background-color: #A87C7D;
+}
